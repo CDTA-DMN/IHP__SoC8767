@@ -9,7 +9,7 @@
   "sealring_y": 1000.0,
   "repository": "",
   "pdk_version": "",
-  "process": "SG13G2",
+  "process": "SG13CMOS",
   "dependencies": {
     "LDO": {
       "dependencies": {}
